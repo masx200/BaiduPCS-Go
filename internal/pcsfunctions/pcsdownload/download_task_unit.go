@@ -143,7 +143,7 @@ func (dtu *DownloadTaskUnit) download(downloadURL string, client *requester.HTTP
 		if dtu.IsPrintStatus {
 			// 输出所有的worker状态
 			var (
-				tb      = pcstable.NewTable(builder)
+				tb = pcstable.NewTable(builder)
 			)
 			tb.SetHeader([]string{"#", "status", "range", "left", "speeds", "error"})
 			workersCallback(func(key int, worker *downloader.Worker) bool {
@@ -166,7 +166,7 @@ func (dtu *DownloadTaskUnit) download(downloadURL string, client *requester.HTTP
 			leftStr = left.String()
 		}
 
-		fmt.Fprintf(builder,dtu.PrintFormat, dtu.taskInfo.Id(),
+		fmt.Fprintf(builder, dtu.PrintFormat, dtu.taskInfo.Id(),
 			converter.ConvertFileSize(status.Downloaded(), 2),
 			converter.ConvertFileSize(status.TotalSize(), 2),
 			converter.ConvertFileSize(status.SpeedsPerSecond(), 2),

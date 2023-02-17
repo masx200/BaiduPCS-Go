@@ -1,4 +1,5 @@
-//+build aix plan9
+//go:build aix || plan9
+// +build aix plan9
 
 package checkaccess
 

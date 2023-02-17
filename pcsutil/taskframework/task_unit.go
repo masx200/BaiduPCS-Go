@@ -22,8 +22,8 @@ type (
 
 	// 任务单元执行结果
 	TaskUnitRunResult struct {
-		Succeed       bool        // 是否执行成功
-		NeedRetry     bool        // 是否需要重试
+		Succeed   bool // 是否执行成功
+		NeedRetry bool // 是否需要重试
 
 		// 以下是额外的信息
 		Err           error       // 错误信息

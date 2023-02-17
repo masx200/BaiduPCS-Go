@@ -1,4 +1,5 @@
-//+build !windows,!plan9
+//go:build !windows && !plan9
+// +build !windows,!plan9
 
 // Package prealloc 初始化分配文件包
 package prealloc
