@@ -11,7 +11,7 @@ require (
 	github.com/daaku/go.zipexe v0.0.0-20150329023125-a5fe2436ffcb // indirect
 	//github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fatih/color v1.14.1
-	github.com/felixonmars/Baidu-Login v1.2.2-0.20180427090606-ecf146973528
+	github.com/felixonmars/Baidu-Login v1.2.2
 	github.com/felixonmars/baidu-tools v0.0.0-20190609113215-4dd64618064d
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/golang/protobuf v1.5.2
