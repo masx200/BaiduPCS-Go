@@ -41,8 +41,8 @@ github.com/elastic/go-elasticsearch/v6 v6.8.5/go.mod h1:UwaDJsD3rWLM5rKNFzv9hgox
 github.com/elazarl/go-bindata-assetfs v1.0.0/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo7R71Vk1u8bnjau5yw4=
 github.com/fatih/color v1.14.1 h1:qfhVLaG5s+nCROl1zJsZRxFeYrHLqWroPOQ8BWiNb4w=
 github.com/fatih/color v1.14.1/go.mod h1:2oHN61fhTpgcxD3TSWCgKDiH1+x4OiDVVGH8WlgGZGg=
-github.com/felixonmars/Baidu-Login v1.2.2-0.20180427090606-ecf146973528 h1:FzumOZ5hWbUnCe3ZE6uN/2D5F6WVUtOmHRPiRPPqneU=
-github.com/felixonmars/Baidu-Login v1.2.2-0.20180427090606-ecf146973528/go.mod h1:iANGZirDaKKKiijrX6J9Tqy4D+BYIBi/NkoZ0weUdbo=
+github.com/felixonmars/Baidu-Login v1.2.2 h1:WXofGf2TCYiF8rtT+by5uZN6RtPg1xQMY0bX7Wr0JAI=
+github.com/felixonmars/Baidu-Login v1.2.2/go.mod h1:iANGZirDaKKKiijrX6J9Tqy4D+BYIBi/NkoZ0weUdbo=
 github.com/felixonmars/baidu-tools v0.0.0-20190609113215-4dd64618064d h1:DwIXGc5ac7cp6wXYgach2ZHYqFLFIiQFsoLszR/BsgU=
 github.com/felixonmars/baidu-tools v0.0.0-20190609113215-4dd64618064d/go.mod h1:pThvOx25nUwZM1zTireFAPHxT8Yj75oR4P5MbGJbKQ0=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
