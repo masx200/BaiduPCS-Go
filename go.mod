@@ -23,7 +23,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.9
 	github.com/oleiade/lane v0.0.0-20160817071224-3053869314bb
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/peterh/liner v1.1.1-0.20190305032635-6f820f8f90ce
+	github.com/peterh/liner v1.2.2
 	github.com/urfave/cli v1.22.12
 	golang.org/x/crypto v0.6.0
 	golang.org/x/sys v0.5.0
