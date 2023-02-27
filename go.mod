@@ -20,7 +20,7 @@ require (
 	github.com/iikira/baidu-tools v0.0.0-20190609113215-4dd64618064d // indirect
 	github.com/json-iterator/go v1.1.12
 	github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1
-	github.com/mattn/go-runewidth v0.0.9
+	github.com/mattn/go-runewidth v0.0.14
 	github.com/oleiade/lane v0.0.0-20160817071224-3053869314bb
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/peterh/liner v1.2.2
