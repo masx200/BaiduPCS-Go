@@ -21,7 +21,7 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1
 	github.com/mattn/go-runewidth v0.0.14
-	github.com/oleiade/lane v0.0.0-20160817071224-3053869314bb
+	github.com/oleiade/lane v1.0.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/peterh/liner v1.2.2
 	github.com/urfave/cli v1.22.12
