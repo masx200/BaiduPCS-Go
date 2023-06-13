@@ -26,5 +26,5 @@ require (
 	github.com/peterh/liner v1.2.2
 	github.com/urfave/cli v1.22.13
 	golang.org/x/crypto v0.9.0
-	golang.org/x/sys v0.8.0
+	golang.org/x/sys v0.9.0
 )
