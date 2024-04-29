@@ -24,7 +24,7 @@ require (
 	github.com/oleiade/lane v1.0.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/peterh/liner v1.2.2
-	github.com/urfave/cli v1.22.14
+	github.com/urfave/cli v1.22.15
 	golang.org/x/crypto v0.22.0
 	golang.org/x/sys v0.19.0
 )
