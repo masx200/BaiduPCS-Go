@@ -13,7 +13,7 @@ require (
 	github.com/fatih/color v1.16.0
 	github.com/felixonmars/Baidu-Login v1.2.2
 	github.com/felixonmars/baidu-tools v0.0.0-20190609113215-4dd64618064d
-	github.com/golang-jwt/jwt/v4 v4.5.0
+	github.com/golang-jwt/jwt/v4 v4.5.1
 	github.com/golang/protobuf v1.5.4
 	github.com/iikira/Baidu-Login v1.2.2 // indirect
 	github.com/iikira/BaiduPCS-Go v3.5.6+incompatible // indirect
