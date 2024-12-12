@@ -25,6 +25,6 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/peterh/liner v1.2.2
 	github.com/urfave/cli v1.22.14
-	golang.org/x/crypto v0.22.0
-	golang.org/x/sys v0.19.0
+	golang.org/x/crypto v0.31.0
+	golang.org/x/sys v0.28.0
 )
